@@ -1,0 +1,1 @@
+console.log('Do not despair! You will be fine. The future has an error: everything is undefined.')
